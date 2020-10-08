@@ -3,4 +3,4 @@ just another repositry
 
 what is this?
 trying to understand git
-among us is better than fall guys
+among us is better than fall guys and every other game.
